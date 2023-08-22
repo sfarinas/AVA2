@@ -55,7 +55,7 @@
               System.out.print("Preço R$: ");
               preco = scanner.nextDouble();
 
-              // Aqui você pode adicionar mais validações de entrada, se necessário
+              // validações de entrada.
 
           } catch (Exception e) {
               System.out.println("Entrada inválida. Certifique-se de inserir valores numéricos corretos.");
