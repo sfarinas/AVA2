@@ -63,7 +63,7 @@
               System.out.print("Data de Lançamento: ");
               dataLancamento = scanner.nextLine();
 
-              // Aqui você pode adicionar mais validações de entrada, se necessário
+              // validações de entrada
 
           } catch (Exception e) {
               System.out.println("Entrada inválida. Certifique-se de inserir valores corretos.");
