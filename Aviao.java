@@ -1,5 +1,3 @@
-
-
   import java.util.Scanner;
 
   public class Aviao extends Veiculo {
@@ -47,7 +45,7 @@
               System.out.print("Data de Revisão: ");
               dataRevisao = scanner.nextLine();
 
-              // Aqui você pode adicionar mais validações de entrada, se necessário
+              // validações de entrada
 
           } catch (Exception e) {
               System.out.println("Entrada inválida. Certifique-se de inserir valores corretos.");
